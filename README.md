@@ -1,15 +1,18 @@
 ## Environment
 
-- Node.js 16+ | 21.x
+- [Node.js 21+](https://nodejs.org/)
+- [Webpack 5.91+](https://webpack.js.org/)
+- [TypeScript 5.13+](https://www.typescriptlang.org/)
 
 ## Techniques
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [Node.js](https://nodejs.org/)
-- [Nest](https://github.com/nestjs/nest)
-- [TypeOrm](https://github.com/typeorm/typeorm)
-- [Passport](https://github.com/jaredhanson/passport)
-- [Passport-JWT](https://github.com/mikenicholson/passport-jwt)
+- [Webpack 5.91+](https://webpack.js.org/)
+- [TypeScript 5.13+](https://www.typescriptlang.org/)
+- [Node.js 21+](https://nodejs.org/)
+- [Nest 10+](https://github.com/nestjs/nest)
+- [TypeOrm 0.3+](https://github.com/typeorm/typeorm)
+- [Passport 0.7+](https://github.com/jaredhanson/passport)
+- [Passport-JWT 4.0+](https://github.com/mikenicholson/passport-jwt)
 - ...
 
 ## Installation
@@ -48,11 +51,6 @@ $ yarn run test:cov
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
 

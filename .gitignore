@@ -17,8 +17,9 @@ lerna-debug.log*
 # Tests
 /coverage
 /.nyc_output
-/server/src/config/prod.yml
-/server/src/config/test.yml
+/src/config/dev.yml
+/src/config/prod.yml
+/src/config/test.yml
 
 # IDEs and editors
 /.idea
@@ -35,6 +36,3 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-
-# Config
-/src/config/dev.yml
