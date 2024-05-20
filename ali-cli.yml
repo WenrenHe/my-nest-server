@@ -1,0 +1,2 @@
+- name: "Setup Aliyun CLI" Action for GitHub Actions
+  uses: aliyun/setup-aliyun-cli-action@v1

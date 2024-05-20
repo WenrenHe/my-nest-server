@@ -47,12 +47,6 @@ import { UploadModule } from './module/upload/upload.module'
           keepConnectionAlive: true,
           timezone: '+08:00',
           ...config.get('db.mysql'),
-          // cache: {
-          //   type: 'ioredis',
-          //   ...config.get('redis'),
-          //   alwaysEnabled: true,
-          //   duration: 3 * 1000, // 缓存3s
-          // },
         } as TypeOrmModuleOptions
       },
     }),

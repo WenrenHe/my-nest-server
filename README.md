@@ -47,6 +47,16 @@ $ yarn run test:e2e
 $ yarn run test:cov
 ```
 
+## Build
+
+1. Build
+```bash
+$ yarn run build
+```
+> why not build with webpack?
+> Indeed I have tried to use webpack to build the project, but it is not possible to dynamically load modules.
+> If your project only contains static js, css, html files, you can use webpack to build the project.
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
